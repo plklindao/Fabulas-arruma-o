@@ -22,10 +22,11 @@
 		
 	}
 	
-	.imgindex{
-		
+	a{
+		text-decoration: none;
+		text-align: center;
+		border: 25;
+		padding: 10;
+		margin: 10;
 	}
 	
-	#principal {
-		
-	}
