@@ -26,10 +26,10 @@
 		font-size: 10;
 		text-decoration: none;
 		text-align: center;
-		border: 25;
-		padding: 10;
+		border: 1px solid white;
+		padding: 10px;
 		margin: 10;
-		background-color: brown
-		transition: ;
+		background-color: brown;
+		transition: background-color 0.24s;
 	}
 	
