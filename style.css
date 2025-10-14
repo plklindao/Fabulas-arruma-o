@@ -28,10 +28,10 @@
 		text-align: center;
 		border: 1px solid white;
 		padding: 10px;
-		margin: 10;
+		
 		background-color: brown;
 		transition: background-color 0.24s;
-		margin: 30px 300px;
+		margin: 300px 300px;
 	}
 	
 	ul{
