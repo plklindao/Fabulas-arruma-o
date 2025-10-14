@@ -33,3 +33,10 @@
 		transition: background-color 0.24s;
 	}
 	
+	ul{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		text-align: center;
+		
+	}
