@@ -23,10 +23,13 @@
 	}
 	
 	a{
+		font-size: 10;
 		text-decoration: none;
 		text-align: center;
 		border: 25;
 		padding: 10;
 		margin: 10;
+		background-color: brown
+		transition: ;
 	}
 	
