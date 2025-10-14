@@ -31,6 +31,7 @@
 		margin: 10;
 		background-color: brown;
 		transition: background-color 0.24s;
+		margin: 0 300px;
 	}
 	
 	ul{
@@ -38,5 +39,5 @@
 		flex-direction: column;
 		justify-content: center;
 		text-align: center;
-		
+
 	}
