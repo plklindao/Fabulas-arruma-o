@@ -25,12 +25,10 @@
 	}
 	
 	a{
-		font-size: 10;
 		text-decoration: none;
 		text-align: center;
 		border: 1px solid white;
 		padding: 10px;
-	
 		background-color: rgb(40, 197, 74);
 		transition: background-color 0.24s;
 		margin: 10px 300px;
