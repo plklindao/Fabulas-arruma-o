@@ -28,10 +28,11 @@
 		text-align: center;
 		border: 1px solid white;
 		padding: 10px;
-		
+	
 		background-color: brown;
 		transition: background-color 0.24s;
 		margin: 300px 300px;
+		display: inline-block;
 	}
 	
 	ul{
