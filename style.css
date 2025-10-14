@@ -19,7 +19,6 @@
 
 	img{
 		width: 500px;
-		
 		align-self: center;
 
 		
@@ -43,4 +42,8 @@
 		flex-wrap: wrap;
 		flex-direction: column;
 		list-style-type: none;
+	}
+	
+	.imgindex{
+		text-align: center;
 	}
