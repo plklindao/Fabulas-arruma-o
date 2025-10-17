@@ -25,8 +25,8 @@
 		text-align: center;
 		border: 1px solid white;
 		padding: 29px;
-		background-color: rgb(255, 233, 205);
-		transition: background-color 0.24s;
+		background-color: rgb(236, 214, 184);
+		transition: background-color 0.24s; 
 		margin: 25px 300px;
 		display: inline-block;
 	}
@@ -38,6 +38,10 @@
 		list-style-type: none;
 	}
 
+	a:houver{
+		background-color: antiquewhite;
+	}
+
 	.imgindex {
-		text-align: center;
+		text-align: center; 
 	}
