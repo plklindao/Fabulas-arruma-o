@@ -26,6 +26,7 @@
 		border: 1px solid white;
 		padding: 29px;
 		background-color: rgb(236, 214, 184);
+		 box-shadow: 0 0 60px rgb(58, 51, 51);
 		margin: 25px 300px;
 		display: inline-block;
 	}
